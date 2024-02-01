@@ -26,3 +26,11 @@ The solution uses the logistic regression method provided by Scikit-learn librar
 	"Logistic_regression_Titanic_classifier" directory contains the .ipynb file and the dataset
 
 Stack: Python, Jupyter Notebook, NumPy, Pandas, Scikit-learn
+
+## Article relevance classification
+Description:
+Creation of a relevance classifier for articles
+
+	"Article_relevance_classification" directory contains the .ipynb file and data links (Google Drive)
+
+Stack: Python, Jupyter Notebook, NumPy, Pandas, Scikit-learn, Matplotlib, nltk, pymorphy2, wordcloud
