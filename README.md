@@ -1,13 +1,13 @@
 # DS-ML_projects
 Data Science and Machine Learning projects
 
-## CNN thermogram classifier
+## Article relevance classification
 Description:
-The CNN is projected as a fire-detection solution based on flight altitude obtained thermograms analysis. The model classifies a thermogram with values 0 (no fire) and 1 (fire). The reached accuracy of the network classification is about ~75%
+Creation of a relevance classifier for articles
 
-	"CNN_thermogram_classifier" directory contains the .ipynb file and link to the dataset
+	"Article_relevance_classification" directory contains the .ipynb file and data links (Google Drive)
 
-Stack: Python, Jupyter Notebook, NumPy, Matplotlib, TensorFlow, Keras
+Stack: Python, Jupyter Notebook, NumPy, Pandas, Scikit-learn, Matplotlib, nltk, pymorphy2, wordcloud
 
 ## CNN MNIST classifier
 Description:
@@ -15,6 +15,14 @@ The model identifies a digit on an input image using softmax output activation f
 
 	"CNN_MNIST_classifier" directory contains the .ipynb file
  	MNIST is imported from tensorflow.keras.datasets
+
+Stack: Python, Jupyter Notebook, NumPy, Matplotlib, TensorFlow, Keras
+
+## CNN thermogram classifier
+Description:
+The CNN is projected as a fire-detection solution based on flight altitude obtained thermograms analysis. The model classifies a thermogram with values 0 (no fire) and 1 (fire). The reached accuracy of the network classification is about ~75%
+
+	"CNN_thermogram_classifier" directory contains the .ipynb file and link to the dataset
 
 Stack: Python, Jupyter Notebook, NumPy, Matplotlib, TensorFlow, Keras
 
@@ -26,11 +34,3 @@ The solution uses the logistic regression method provided by Scikit-learn librar
 	"Logistic_regression_Titanic_classifier" directory contains the .ipynb file and the dataset
 
 Stack: Python, Jupyter Notebook, NumPy, Pandas, Scikit-learn
-
-## Article relevance classification
-Description:
-Creation of a relevance classifier for articles
-
-	"Article_relevance_classification" directory contains the .ipynb file and data links (Google Drive)
-
-Stack: Python, Jupyter Notebook, NumPy, Pandas, Scikit-learn, Matplotlib, nltk, pymorphy2, wordcloud
