@@ -1,1 +1,5 @@
 /BERTopic_news_clf/
+/Map-Reduce/.idea/
+/Map-Reduce/.venv/
+/Map-Reduce/__pycache__/
+/Map-Reduce/data/db.csv
