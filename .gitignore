@@ -1,4 +1,12 @@
-/BERTopic_news_clf/
+/BERTopic_news_clf/.idea/
+/BERTopic_news_clf/.venv/
+/BERTopic_news_clf/__pycache__/
+/BERTopic_news_clf/models/
+/BERTopic_news_clf/news/
+/BERTopic_news_clf/outputs/
+/BERTopic_news_clf/bertopic_model.py
+/BERTopic_news_clf/data.py
+/BERTopic_news_clf/main.py
 /Map-Reduce/.idea/
 /Map-Reduce/.venv/
 /Map-Reduce/__pycache__/
