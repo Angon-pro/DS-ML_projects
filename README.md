@@ -9,6 +9,14 @@ Creation of a relevance classifier for articles.
 
 **Stack:** Python, Jupyter Notebook, NumPy, Pandas, Scikit-learn, Matplotlib, nltk, pymorphy2, wordcloud
 
+## BERTopic model for news topic modeling
+**Description:**\
+Implementation of BERTopic framework to create news topic model.
+
+	"BERTopic_news_clf" directory contains the source files and links
+
+**Stack:** Python, Jupyter Notebook, BERTopic, Pandas, NumPy, Matplotlib, SentenceTransformers, Scikit-learn
+
 ## CNN MNIST classifier
 **Description:**\
 The model identifies a digit on an input image using softmax output activation function. The accuracy of the CNN reaches about ~99%.
