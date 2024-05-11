@@ -7,6 +7,9 @@
 /BERTopic_news_clf/bertopic_model.py
 /BERTopic_news_clf/data.py
 /BERTopic_news_clf/main.py
+/Embeddings_and_Similarity/.idea/
+/Embeddings_and_Similarity/.venv/
+/Embeddings_and_Similarity/__pycache__/
 /Map-Reduce/.idea/
 /Map-Reduce/.venv/
 /Map-Reduce/__pycache__/
