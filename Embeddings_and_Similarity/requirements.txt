@@ -1,0 +1,3 @@
+langchain==0.1.12
+gigachain==0.1.9
+gigachat==0.1.17
