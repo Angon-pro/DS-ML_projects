@@ -35,6 +35,15 @@ The model classifies a thermogram with values 0 (no fire) and 1 (fire). The reac
 
 **Stack:** Python, Jupyter Notebook, NumPy, Matplotlib, TensorFlow, Keras
 
+## Embeddings and Similarity
+**Description:**\
+Realization of semantic search using cosine distance, GigaChatEmbeddings 
+and Weaviate vector database.
+
+	"Embeddings_and_Similarity" directory contains source files, configs and news dataset with 1000 docs
+
+**Stack:** Python, Pandas, LangChain, GigaChat SDK (GigaChain), Weaviate
+
 ## Logistic regression Titanic classifier
 **Description:**\
 A model to predict either a Titanic passenger will survive or not based on their passenger class, sex, age, amount of sibligs, amount of children and ticket price. 
