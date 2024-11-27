@@ -1,0 +1,1 @@
+{"classes": ["a photo of nature", "a photo of cat", "a photo of a food", "a photo of people", "a photo of fire"], "db_dict": {"a photo of nature": "nature", "a photo of cat": "cats", "a photo of a food": "food", "a photo of people": "people", "a photo of fire": "fire"}, "th_others": 0.5, "imgs_path": "/home/jovyan/dlba/topic_09/app/data"}
