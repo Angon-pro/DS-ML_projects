@@ -35,6 +35,15 @@ The model classifies a thermogram with values 0 (no fire) and 1 (fire). The reac
 
 **Stack:** Python, Jupyter Notebook, NumPy, Matplotlib, TensorFlow, Keras
 
+## DLBA final project
+**Description:**\
+A Streamlit application for AI image processing in the frame of the GSOM SPbU Deep Learning for Business Applications course.\
+The app allows you to classify images, extract texts, organize photos by categories and do many other amazing AI things.
+
+	"DLBA_final_project" directory contains the .ipynb file, the app sources and the project presentation
+
+**Stack:** Python, Jupyter Notebook, Streamlit, Tesseract, OpenCV, Ultralytics, Transformers, DeepFace
+
 ## Embeddings and Similarity
 **Description:**\
 Realization of semantic search using cosine distance, GigaChatEmbeddings 
